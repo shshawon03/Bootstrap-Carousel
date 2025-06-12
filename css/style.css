@@ -1,0 +1,22 @@
+/*common start*/
+body {
+  margin: 0;
+/*  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: ;*/
+}
+/*common end*/
+/*slider start*/
+.b_prev, .b_next {
+  top: 80%;
+  width: 4%;
+  display: none;
+}
+.b_prev {
+  left: 87%;
+}
+.b_next {
+  right: 4%;
+}
+/*slider end*/
